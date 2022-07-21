@@ -1,0 +1,145 @@
+Bus MUX Synchronizer/Assignment_CDC_1.1.pdf
+Bus MUX Synchronizer/Data_Sync.vcd
+Bus MUX Synchronizer/transcript
+Bus MUX Synchronizer/vsim.wlf
+Bus MUX Synchronizer/work/_info
+Bus MUX Synchronizer/work/_vmake
+Bus MUX Synchronizer/work/@data_@sync/_primary.dat
+Bus MUX Synchronizer/work/@data_@sync/_primary.dbs
+Bus MUX Synchronizer/work/@data_@sync/_primary.vhd
+Bus MUX Synchronizer/work/@data_@sync/verilog.prw
+Bus MUX Synchronizer/work/@data_@sync/verilog.psm
+Bus MUX Synchronizer/work/@data_@sync_tb/_primary.dat
+Bus MUX Synchronizer/work/@data_@sync_tb/_primary.dbs
+Bus MUX Synchronizer/work/@data_@sync_tb/_primary.vhd
+Bus MUX Synchronizer/work/@data_@sync_tb/verilog.prw
+Bus MUX Synchronizer/work/@data_@sync_tb/verilog.psm
+Bus MUX Synchronizer/work/@multi_@flop_@synchronizer/_primary.dat
+Bus MUX Synchronizer/work/@multi_@flop_@synchronizer/_primary.dbs
+Bus MUX Synchronizer/work/@multi_@flop_@synchronizer/_primary.vhd
+Bus MUX Synchronizer/work/@multi_@flop_@synchronizer/verilog.prw
+Bus MUX Synchronizer/work/@multi_@flop_@synchronizer/verilog.psm
+Bus MUX Synchronizer/work/@multi_@flop_@synchronizer_@multi_bits/_primary.dat
+Bus MUX Synchronizer/work/@multi_@flop_@synchronizer_@multi_bits/_primary.dbs
+Bus MUX Synchronizer/work/@multi_@flop_@synchronizer_@multi_bits/_primary.vhd
+Bus MUX Synchronizer/work/@multi_@flop_@synchronizer_@multi_bits/verilog.prw
+Bus MUX Synchronizer/work/@multi_@flop_@synchronizer_@multi_bits/verilog.psm
+Bus MUX Synchronizer/work/@pulse_@gen/_primary.dat
+Bus MUX Synchronizer/work/@pulse_@gen/_primary.dbs
+Bus MUX Synchronizer/work/@pulse_@gen/_primary.vhd
+Bus MUX Synchronizer/work/@pulse_@gen/verilog.prw
+Bus MUX Synchronizer/work/@pulse_@gen/verilog.psm
+Bus MUX Synchronizer/work/_temp/vlog2nkzv2
+Bus MUX Synchronizer/work/_temp/vlog2yw3qb
+Bus MUX Synchronizer/work/_temp/vlog4kyrvg
+Bus MUX Synchronizer/work/_temp/vlog164e8a
+Bus MUX Synchronizer/work/_temp/vlogcbcn9d
+Bus MUX Synchronizer/work/_temp/vlognwva2n
+Bus MUX Synchronizer/work/_temp/vlognx8g08
+Bus MUX Synchronizer/work/_temp/vlogvcwa3n
+Mutli-Flop Synchronizer/Assignment_CDC_1.0.pdf
+Mutli-Flop Synchronizer/Synchronizer_tb.v.bak
+Mutli-Flop Synchronizer/Synchronizer.vcd
+Mutli-Flop Synchronizer/transcript
+Mutli-Flop Synchronizer/vsim.wlf
+Mutli-Flop Synchronizer/wlft2aevc7
+Mutli-Flop Synchronizer/wlft3xr56c
+Mutli-Flop Synchronizer/wlftakvf4x
+Mutli-Flop Synchronizer/wlfti561h7
+Mutli-Flop Synchronizer/wlftrnatwh
+Mutli-Flop Synchronizer/wlftvfq1r5
+Mutli-Flop Synchronizer/work/_info
+Mutli-Flop Synchronizer/work/_vmake
+Mutli-Flop Synchronizer/work/@multi_@flop_@synchronizer/_primary.dat
+Mutli-Flop Synchronizer/work/@multi_@flop_@synchronizer/_primary.dbs
+Mutli-Flop Synchronizer/work/@multi_@flop_@synchronizer/_primary.vhd
+Mutli-Flop Synchronizer/work/@multi_@flop_@synchronizer/verilog.prw
+Mutli-Flop Synchronizer/work/@multi_@flop_@synchronizer/verilog.psm
+Mutli-Flop Synchronizer/work/@multi_@flop_@synchronizer_@multi_bits/_primary.dat
+Mutli-Flop Synchronizer/work/@multi_@flop_@synchronizer_@multi_bits/_primary.dbs
+Mutli-Flop Synchronizer/work/@multi_@flop_@synchronizer_@multi_bits/_primary.vhd
+Mutli-Flop Synchronizer/work/@multi_@flop_@synchronizer_@multi_bits/verilog.prw
+Mutli-Flop Synchronizer/work/@multi_@flop_@synchronizer_@multi_bits/verilog.psm
+Mutli-Flop Synchronizer/work/@synchronizer_tb/_primary.dat
+Mutli-Flop Synchronizer/work/@synchronizer_tb/_primary.dbs
+Mutli-Flop Synchronizer/work/@synchronizer_tb/_primary.vhd
+Mutli-Flop Synchronizer/work/@synchronizer_tb/verilog.prw
+Mutli-Flop Synchronizer/work/@synchronizer_tb/verilog.psm
+Mutli-Flop Synchronizer/work/_temp/vlog0ny8ya
+Mutli-Flop Synchronizer/work/_temp/vlog2b651b
+Mutli-Flop Synchronizer/work/_temp/vlog2gcexm
+Mutli-Flop Synchronizer/work/_temp/vlog5bwz2k
+Mutli-Flop Synchronizer/work/_temp/vlog5d7n1s
+Mutli-Flop Synchronizer/work/_temp/vlog5xz63q
+Mutli-Flop Synchronizer/work/_temp/vlog6wrd32
+Mutli-Flop Synchronizer/work/_temp/vlog8y1fhz
+Mutli-Flop Synchronizer/work/_temp/vlog9bqwig
+Mutli-Flop Synchronizer/work/_temp/vlog11sqqc
+Mutli-Flop Synchronizer/work/_temp/vlog16bjw8
+Mutli-Flop Synchronizer/work/_temp/vlog20jr3d
+Mutli-Flop Synchronizer/work/_temp/vlog58cvab
+Mutli-Flop Synchronizer/work/_temp/vlog843zjj
+Mutli-Flop Synchronizer/work/_temp/vloga6jik1
+Mutli-Flop Synchronizer/work/_temp/vloga6v414
+Mutli-Flop Synchronizer/work/_temp/vlogab0kn9
+Mutli-Flop Synchronizer/work/_temp/vlogacz270
+Mutli-Flop Synchronizer/work/_temp/vlogb03k77
+Mutli-Flop Synchronizer/work/_temp/vlogbbhvzt
+Mutli-Flop Synchronizer/work/_temp/vlogbs0wk8
+Mutli-Flop Synchronizer/work/_temp/vlogbwfz7k
+Mutli-Flop Synchronizer/work/_temp/vlogc26eze
+Mutli-Flop Synchronizer/work/_temp/vlogcib1x6
+Mutli-Flop Synchronizer/work/_temp/vlogggm0jv
+Mutli-Flop Synchronizer/work/_temp/vloggy3r4d
+Mutli-Flop Synchronizer/work/_temp/vloghbcyb0
+Mutli-Flop Synchronizer/work/_temp/vloghq0z6q
+Mutli-Flop Synchronizer/work/_temp/vlogj0dyer
+Mutli-Flop Synchronizer/work/_temp/vlogjs78cn
+Mutli-Flop Synchronizer/work/_temp/vlogmgi3b3
+Mutli-Flop Synchronizer/work/_temp/vlogmsxsqk
+Mutli-Flop Synchronizer/work/_temp/vlogn4ryx4
+Mutli-Flop Synchronizer/work/_temp/vlogqhiiy7
+Mutli-Flop Synchronizer/work/_temp/vlogr5qhgy
+Mutli-Flop Synchronizer/work/_temp/vlogsw2z4y
+Mutli-Flop Synchronizer/work/_temp/vlogt1gwn8
+Mutli-Flop Synchronizer/work/_temp/vlogt5m5jg
+Mutli-Flop Synchronizer/work/_temp/vlogt6ck61
+Mutli-Flop Synchronizer/work/_temp/vlogvivanx
+Mutli-Flop Synchronizer/work/_temp/vlogvvnf3t
+Mutli-Flop Synchronizer/work/_temp/vlogw402e1
+Mutli-Flop Synchronizer/work/_temp/vlogxjx727
+Mutli-Flop Synchronizer/work/_temp/vlogyfw1qv
+Mutli-Flop Synchronizer/work/_temp/vlogywjeg9
+Mutli-Flop Synchronizer/work/_temp/vlogzz1d56
+Mutli-Flop Synchronizer/work/bit_synchronizer/_primary.dat
+Mutli-Flop Synchronizer/work/bit_synchronizer/_primary.dbs
+Mutli-Flop Synchronizer/work/bit_synchronizer/_primary.vhd
+Mutli-Flop Synchronizer/work/bit_synchronizer/verilog.prw
+Mutli-Flop Synchronizer/work/bit_synchronizer/verilog.psm
+Reset Syncronizer/Assignment_CDC_1.2.pdf
+Reset Syncronizer/RST_Sync.vcd
+Reset Syncronizer/transcript
+Reset Syncronizer/vsim.wlf
+Reset Syncronizer/work/_info
+Reset Syncronizer/work/_vmake
+Reset Syncronizer/work/@multi_@flop_@synchronizer/_primary.dat
+Reset Syncronizer/work/@multi_@flop_@synchronizer/_primary.dbs
+Reset Syncronizer/work/@multi_@flop_@synchronizer/_primary.vhd
+Reset Syncronizer/work/@multi_@flop_@synchronizer/verilog.prw
+Reset Syncronizer/work/@multi_@flop_@synchronizer/verilog.psm
+Reset Syncronizer/work/@multi_@flop_@synchronizer_@multi_bits/_primary.dat
+Reset Syncronizer/work/@multi_@flop_@synchronizer_@multi_bits/_primary.dbs
+Reset Syncronizer/work/@multi_@flop_@synchronizer_@multi_bits/_primary.vhd
+Reset Syncronizer/work/@multi_@flop_@synchronizer_@multi_bits/verilog.prw
+Reset Syncronizer/work/@multi_@flop_@synchronizer_@multi_bits/verilog.psm
+Reset Syncronizer/work/@r@s@t_@sync/_primary.dat
+Reset Syncronizer/work/@r@s@t_@sync/_primary.dbs
+Reset Syncronizer/work/@r@s@t_@sync/_primary.vhd
+Reset Syncronizer/work/@r@s@t_@sync/verilog.prw
+Reset Syncronizer/work/@r@s@t_@sync/verilog.psm
+Reset Syncronizer/work/@r@s@t_@sync_tb/_primary.dat
+Reset Syncronizer/work/@r@s@t_@sync_tb/_primary.dbs
+Reset Syncronizer/work/@r@s@t_@sync_tb/_primary.vhd
+Reset Syncronizer/work/@r@s@t_@sync_tb/verilog.prw
+Reset Syncronizer/work/@r@s@t_@sync_tb/verilog.psm
+Reset Syncronizer/work/_temp/vlogkyn2h8
